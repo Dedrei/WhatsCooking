@@ -1,0 +1,17 @@
+Sun Mar 08 16:49:46 NZDT 2015 : Apache Derby Network Server - 10.9.1.0 - (1344872) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Mar 08 16:49:55 NZDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-014b-f780-c5e6-ffffa4ff29ee 
+on database directory /Users/dedreinz/Desktop/WhatsCooking final/WhatsCookingDB  with class loader sun.misc.Launcher$AppClassLoader@39c26db4 
+Loaded from file:/Applications/NetBeans/glassfish-4.0/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b15
+user.dir=/Applications/NetBeans/glassfish-4.0/javadb
+derby.system.home=/Users/dedreinz/Desktop/WhatsCooking final
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Mar 08 22:44:34 NZDT 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Mar 08 22:44:34 NZDT 2015:
+Shutting down instance a816c00e-014b-f780-c5e6-ffffa4ff29ee on database directory /Users/dedreinz/Desktop/WhatsCooking final/WhatsCookingDB with class loader sun.misc.Launcher$AppClassLoader@39c26db4 
+----------------------------------------------------------------
